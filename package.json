@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-experimental-01",
+  "version": "0.0.1",
+  "description": "Next.js experimental version 01 compare with create-react-app",
+  "main": "index.js",
+  "author": "XMOTION",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "lodash": "^4.17.4",
+    "next": "^3.0.6",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "semantic-ui-react": "^0.71.5"
+  }
+}
