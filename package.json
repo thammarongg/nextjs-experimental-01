@@ -14,6 +14,7 @@
     "axios": "^0.16.2",
     "lodash": "^4.17.4",
     "next": "^3.0.6",
+    "next-routes": "^1.0.40",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "semantic-ui-react": "^0.71.5"
